@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Thirsty",
+  "base_artist": "aespa",
+  "createdAt": "2025-12-23T17:47:10.174788Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "How Can I Be So Thirsty",
+      "artist": "Jerrod Niemann",
+      "has_synced": true,
+      "path": "select/01_How_Can_I_Be_So_Thirsty_Jerrod_Niemann.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Thirsty Dog",
+      "artist": "Nick Cave & The Bad Seeds",
+      "has_synced": true,
+      "path": "select/02_Thirsty_Dog_Nick_Cave_&_The_Bad_Seeds.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Thirsty Dog",
+      "artist": "Nick Cave And The Bad Seeds",
+      "has_synced": true,
+      "path": "select/03_Thirsty_Dog_Nick_Cave_And_The_Bad_Seeds.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Thirsty and Miserable",
+      "artist": "Black Flag",
+      "has_synced": true,
+      "path": "select/04_Thirsty_and_Miserable_Black_Flag.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Thirsty",
+      "artist": "Cassie",
+      "has_synced": false,
+      "path": "select/05_Thirsty_Cassie.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Nothing Good Ever Happens at the Goddamn Thirsty Crow",
+      "artist": "Father John Misty",
+      "has_synced": true,
+      "path": "select/06_Nothing_Good_Ever_Happens_at_the_Goddamn_Thirsty_Crow_Father_John_Misty.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Drumroll (We're All Thirsty)",
+      "artist": "P.O.S",
+      "has_synced": true,
+      "path": "select/07_Drumroll_(We're_All_Thirsty)_P.O.S.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Drumroll (We're All Thirsty)",
+      "artist": "P.O.S.",
+      "has_synced": true,
+      "path": "select/08_Drumroll_(We're_All_Thirsty)_P.O.S..lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Thirsty",
+      "artist": "PARTYNEXTDOOR",
+      "has_synced": true,
+      "path": "select/09_Thirsty_PARTYNEXTDOOR.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Stay Thirsty!",
+      "artist": "TANKARD",
+      "has_synced": true,
+      "path": "select/10_Stay_Thirsty!_TANKARD.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Thirsty European",
+      "artist": "Rollerskate Skinny",
+      "has_synced": false,
+      "path": "select/11_Thirsty_European_Rollerskate_Skinny.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Thirsty Whore",
+      "artist": "The-Dream",
+      "has_synced": false,
+      "path": "select/12_Thirsty_Whore_The-Dream.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Thirty Thirsty Sailors",
+      "artist": "George Formby",
+      "has_synced": false,
+      "path": "select/13_Thirty_Thirsty_Sailors_George_Formby.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Thirty Thirsty Sailors",
+      "artist": "George Formby, George Formby",
+      "has_synced": false,
+      "path": "select/14_Thirty_Thirsty_Sailors_George_Formby,_George_Formby.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Blood Thirsty Bastards",
+      "artist": "Dirty Pretty Things",
+      "has_synced": true,
+      "path": "select/15_Blood_Thirsty_Bastards_Dirty_Pretty_Things.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Thirsty Man",
+      "artist": "Blitzen Trapper",
+      "has_synced": true,
+      "path": "select/16_Thirsty_Man_Blitzen_Trapper.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Thirsty",
+      "artist": "Taemin",
+      "has_synced": true,
+      "path": "select/17_Thirsty_Taemin.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Thirsty",
+      "artist": "태민",
+      "has_synced": true,
+      "path": "select/18_Thirsty_태민.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Thirsty",
+      "artist": "aespa",
+      "has_synced": false,
+      "path": "select/pl_01_Thirsty_aespa.txt"
+    }
+  ]
+}
