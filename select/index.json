@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "Thirsty",
   "base_artist": "aespa",
-  "createdAt": "2025-12-23T17:47:10.174788Z",
+  "createdAt": "2026-03-28T19:57:14.080112Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -155,6 +155,15 @@
       "artist": "aespa",
       "has_synced": false,
       "path": "select/pl_01_Thirsty_aespa.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "Thirsty",
+      "artist": "aespa",
+      "has_synced": false,
+      "path": "select/localdb_01_Thirsty_aespa.txt",
+      "repo_name": "i0RCcSBPjuU"
     }
   ]
 }
